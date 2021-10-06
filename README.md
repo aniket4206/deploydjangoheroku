@@ -107,3 +107,8 @@ Solution: Either Provide STATIC_ROOT or Disable it by running **heroku config:se
 Error 2: No web processes running <br>
 Cause: Unable to find wsgi or havent configured Procfile <br>
 Solution: Config Properly Procfile <br>
+
+
+https://www.youtube.com/watch?v=kBwhtEIXGII&ab_channel=DennisIvy
+
+https://www.youtube.com/watch?v=WGo-1xB-NO8
